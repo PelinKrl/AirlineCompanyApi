@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\db\\useraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\db\\useraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\db\\ticketaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\db\\ticketaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\db\\flightaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\db\\flightaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\paging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\paging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\ticketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\ticketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\ticketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\ticketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\flightresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\flightresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\flightrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\flightrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\models\\dtos\\checkinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\models\\dtos\\checkinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|c:\\users\\murat\\desktop\\mywebapi\\airlinecompanyapi\\airlinecompanyapi\\airlinecompanyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E342DE7-9690-4B52-858D-8A8750CF92D4}|AirlineCompanyAPI\\AirlineCompanyAPI.csproj|solutionrelative:airlinecompanyapi\\airlinecompanyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Services\\FlightService.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Services\\FlightService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:23:24.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAccess.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\DB\\UserAccess.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\DB\\UserAccess.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\DB\\UserAccess.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\DB\\UserAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:24:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketAccess.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\DB\\TicketAccess.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\DB\\TicketAccess.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\DB\\TicketAccess.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\DB\\TicketAccess.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:03:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:28:23.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:29:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightAccess.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\DB\\FlightAccess.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\DB\\FlightAccess.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\DB\\FlightAccess.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\DB\\FlightAccess.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:03:22.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Program.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:12:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Services\\LoginService.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:23:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Services\\TicketService.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Services\\TicketService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\appsettings.json",
+              "RelativeToolTip": "AirlineCompanyAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T18:08:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\TicketResponseDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\TicketResponseDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\TicketResponseDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\TicketResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:42.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\Flight.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\Flight.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:15:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Paging.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\Paging.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\Paging.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\Paging.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\Paging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:15:10.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:15:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\User.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:24:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:25:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\TicketRequestDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\TicketRequestDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\TicketRequestDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\TicketRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\ResponseDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\FlightResponseDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\FlightResponseDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\FlightResponseDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\FlightResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:40.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlightRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\FlightRequestDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\FlightRequestDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\FlightRequestDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\FlightRequestDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheckInResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\CheckInResponseDTO.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Models\\DTOs\\CheckInResponseDTO.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Models\\DTOs\\CheckInResponseDTO.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Models\\DTOs\\CheckInResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:16:36.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "AirlineCompanyAPI\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:15:14.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AirlineCompanyAPI.http",
+              "DocumentMoniker": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\AirlineCompanyAPI.http",
+              "RelativeDocumentMoniker": "AirlineCompanyAPI\\AirlineCompanyAPI.http",
+              "ToolTip": "C:\\Users\\murat\\Desktop\\MyWebAPI\\AirlineCompanyAPI\\AirlineCompanyAPI\\AirlineCompanyAPI.http",
+              "RelativeToolTip": "AirlineCompanyAPI\\AirlineCompanyAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-26T21:23:09.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
